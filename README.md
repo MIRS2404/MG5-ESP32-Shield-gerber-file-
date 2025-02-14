@@ -1,5 +1,5 @@
 # MG5-ESP32-Shield-gerber-file-
 右上の<> CodeよりZIPファイルをクリックして使用してください。
 
-すべてのファイルは以下のリンクから
+すべての設計ファイルは以下のリンクにあります 
 https://github.com/MIRS2404/MG5-ESP32-Shield
